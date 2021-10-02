@@ -1,0 +1,15 @@
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.exe
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.deps.json
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.runtimeconfig.json
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.runtimeconfig.dev.json
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.dll
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\bin\Debug\netcoreapp3.0\Strategy Pattern First Look.pdb
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.csproj.AssemblyReference.cache
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfoInputs.cache
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.AssemblyInfo.cs
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.csproj.CoreCompileInputs.cache
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.dll
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.pdb
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.genruntimeconfig.cache
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\mwesiers\Downloads\c-sharp-design-patterns-strategy\02\demos\Demo 1 - Strategy Pattern First Look\Start_Here\obj\Debug\netcoreapp3.0\Strategy Pattern First Look.csproj.CopyComplete
